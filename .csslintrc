@@ -1,0 +1,3 @@
+--errors=important
+--warnings=import
+--ignore=fallback-colors

@@ -1,0 +1,12 @@
+{
+  "undef": true,
+  "unused": true,
+	"expr": true,
+	"globals": {
+			"_paq": false,
+			"requirejs": false
+	},
+	"jquery": true,
+	"devel": true,
+	"browser": true
+}
