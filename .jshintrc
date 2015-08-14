@@ -1,6 +1,6 @@
 {
-  "undef": true,
-  "unused": true,
+    "undef": true,
+    "unused": true,
 	"expr": true,
 	"globals": {
 			"_paq": false,
@@ -8,5 +8,8 @@
 	},
 	"jquery": true,
 	"devel": true,
-	"browser": true
+	"browser": true,
+    "noyield": true,
+    "node": true,
+    "esnext": true
 }
