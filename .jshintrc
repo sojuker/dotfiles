@@ -4,7 +4,8 @@
 	"expr": true,
 	"globals": {
 			"_paq": false,
-			"requirejs": false
+			"requirejs": false,
+            "define": false
 	},
 	"jquery": true,
 	"devel": true,
