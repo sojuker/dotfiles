@@ -1,11 +1,14 @@
 {
     "undef": true,
-    "unused": true,
+    "unused": false,
 	"expr": true,
 	"globals": {
 			"_paq": false,
 			"requirejs": false,
-            "define": false
+            "define": false,
+            "__uri": false,
+            "fis": false,
+            "__inline": false
 	},
 	"jquery": true,
 	"devel": true,
