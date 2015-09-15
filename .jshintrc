@@ -3,6 +3,7 @@
     "unused": false,
 	"expr": true,
 	"globals": {
+            "_": false,
 			"_paq": false,
 			"requirejs": false,
             "define": false,
