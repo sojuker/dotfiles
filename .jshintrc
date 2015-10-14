@@ -3,7 +3,6 @@
     "unused": false,
 	"expr": true,
 	"globals": {
-            "_": false,
 			"_paq": false,
 			"requirejs": false,
             "define": false,
@@ -11,7 +10,8 @@
             "fis": false,
             "__inline": false
 	},
-	"jquery": true,
+    "nocomma": true,
+	"jquery": false,
 	"devel": true,
 	"browser": true,
     "noyield": true,
